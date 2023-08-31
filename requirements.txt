@@ -1,0 +1,2 @@
+scrypt
+py-cryptonight
